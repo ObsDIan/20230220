@@ -1,0 +1,8 @@
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\bin\Debug\ExtensionSample001.exe.config
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\bin\Debug\ExtensionSample001.exe
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\bin\Debug\ExtensionSample001.pdb
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\obj\Debug\ExtensionSample001.csproj.AssemblyReference.cache
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\obj\Debug\ExtensionSample001.csproj.SuggestedBindingRedirects.cache
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\obj\Debug\ExtensionSample001.csproj.CoreCompileInputs.cache
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\obj\Debug\ExtensionSample001.exe
+E:\跨域黑客\C#\20230220\ExtensionSamples\ExtensionSample001\obj\Debug\ExtensionSample001.pdb

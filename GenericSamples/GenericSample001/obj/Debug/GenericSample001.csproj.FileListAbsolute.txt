@@ -1,0 +1,8 @@
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\bin\Debug\GenericSample001.exe.config
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\bin\Debug\GenericSample001.exe
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\bin\Debug\GenericSample001.pdb
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\obj\Debug\GenericSample001.csproj.AssemblyReference.cache
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\obj\Debug\GenericSample001.csproj.SuggestedBindingRedirects.cache
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\obj\Debug\GenericSample001.csproj.CoreCompileInputs.cache
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\obj\Debug\GenericSample001.exe
+E:\跨域黑客\C#\20230220\GenericSamples\GenericSample001\obj\Debug\GenericSample001.pdb

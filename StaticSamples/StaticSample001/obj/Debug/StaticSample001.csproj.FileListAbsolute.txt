@@ -1,0 +1,8 @@
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\bin\Debug\StaticSample001.exe.config
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\bin\Debug\StaticSample001.exe
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\bin\Debug\StaticSample001.pdb
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\obj\Debug\StaticSample001.csproj.AssemblyReference.cache
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\obj\Debug\StaticSample001.csproj.SuggestedBindingRedirects.cache
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\obj\Debug\StaticSample001.csproj.CoreCompileInputs.cache
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\obj\Debug\StaticSample001.exe
+E:\跨域黑客\C#\20230220\StaticSamples\StaticSample001\obj\Debug\StaticSample001.pdb

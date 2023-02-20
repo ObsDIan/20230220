@@ -1,0 +1,11 @@
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\bin\Debug\EventSample001.exe.config
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\bin\Debug\EventSample001.exe
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\bin\Debug\EventSample001.pdb
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.csproj.AssemblyReference.cache
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.csproj.SuggestedBindingRedirects.cache
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.Form1.resources
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.Properties.Resources.resources
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.csproj.GenerateResource.cache
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.csproj.CoreCompileInputs.cache
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.exe
+E:\跨域黑客\C#\20230220\EventSamples\EventSample001\obj\Debug\EventSample001.pdb
